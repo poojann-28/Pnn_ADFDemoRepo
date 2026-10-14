@@ -1,0 +1,15 @@
+{
+	"name": "ADFPnnDemo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e647a89-ee21-433a-a24a-99ccea7de8b9",
+		"tenantId": "b21a74ac-1058-4733-b145-15cc0623e855"
+	}
+}
